@@ -1,4 +1,4 @@
-# inspiration-code
+# Inspirations et documentations HW
 Inspirations utilisées pour le code de l'atelier Hello World
 
   

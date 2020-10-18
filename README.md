@@ -1,7 +1,7 @@
 # Inspirations utilisées pour le code de l'atelier Hello World
 
 
-1. Slider Dark mode : 
+1. Slider Dark mode : #
 https://codepen.io/mburnette/pen/LxNxNg  - Marcus Burnette
 https://www.w3schools.com/howto/howto_css_switch.asp - W3school
                       

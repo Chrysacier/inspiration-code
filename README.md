@@ -3,9 +3,9 @@ Inspirations utilisées pour le code de l'atelier Hello World
 
   
 Slider Dark mode : 
-• https://codepen.io/mburnette/pen/LxNxNg - Marcus Burnette
-• https://www.w3schools.com/howto/howto_css_switch.asp - W3school
+https://codepen.io/mburnette/pen/LxNxNg - Marcus Burnette
+https://www.w3schools.com/howto/howto_css_switch.asp - W3school
 
 Effets hover css :
-• https://codepen.io/P233/pen/EaGAl - Peiwen Lu
-• https://ianlunn.github.io/Hover/ - Ian Lunn
+https://codepen.io/P233/pen/EaGAl - Peiwen Lu
+https://ianlunn.github.io/Hover/ - Ian Lunn
